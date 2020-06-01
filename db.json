@@ -1,12 +1,184 @@
 {
-  "Productos":[
-  {
-    "nombre":"cebolla",
-    "precio":500
-  },
-  {
-    "nombre":"tomate",
-    "precio":800
-  }
-    ]
+  "Productos": [
+    {
+      "Nombre": "Lechuga crespa",
+      "Precio": "1500",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.jardineriaon.com/wp-content/uploads/2019/10/Lechuga-batavia.jpg"
+    },
+    {
+      "Nombre": "Tomate",
+      "Precio": "1000",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.gadis.es/supermercados/wp-content/uploads/2018/05/20-alimentos-que-haran-que-tu-amiguito-parezca-mas-grande-02-728x483.jpg"
+    },
+    {
+      "Nombre": "Arveja",
+      "Precio": "2000",
+      "UnidadMedida": "Libra",
+      "Foto": "https://img.freepik.com/foto-gratis/arveja_1205-957.jpg?size=626&ext=jpg"
+    },
+    {
+      "Nombre": "Cilantro",
+      "Precio": "200",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.gastronomiavasca.net/uploads/image/file/4190/w700_cilantro.jpg"
+    },
+    {
+      "Nombre": "Zanahoria",
+      "Precio": "1200",
+      "UnidadMedida": "Libra",
+      "Foto": "https://image.freepik.com/foto-gratis/zanahoria-entera-aislada_88281-1988.jpg"
+    },
+    {
+      "Nombre": "Papa Sabanera",
+      "Precio": "800",
+      "UnidadMedida": "Libra",
+      "Foto": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3432198-750-750/1472-1.jpg?v=636976336000970000"
+    },
+    {
+      "Nombre": "Papa Criolla",
+      "Precio": "700",
+      "UnidadMedida": "Libra",
+      "Foto": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3323095-750-750/20386511-1.jpg?v=636670897202370000"
+    },
+    {
+      "Nombre": "Habichuela",
+      "Precio": "800",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.guiadelacocina.com/images/stories/2013_08/habichuela.jpg"
+    },
+    {
+      "Nombre": "Mazorca",
+      "Precio": "1000",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://www.escarola.co/wp-content/uploads/2015/09/mazorca.jpg"
+    },
+    {
+      "Nombre": "Cebolla larga",
+      "Precio": "600",
+      "UnidadMedida": "Libra",
+      "Foto": "https://mercafruver.com.co/wp-content/uploads/2019/08/CEBOLLALARGA.png"
+    },
+    {
+      "Nombre": "Rabano",
+      "Precio": "900",
+      "UnidadMedida": "Libra",
+      "Foto": "https://t1.ev.ltmcdn.com/es/posts/9/4/9/img_problemas_en_el_crecimiento_de_los_rabanos_949_orig.jpg"
+    },
+    {
+      "Nombre": "Pimenton Rojo",
+      "Precio": "500",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/191358-1000-1000/802.jpg?v=636166527034700000"
+    },
+    {
+      "Nombre": "Pepino Cohombro",
+      "Precio": "1200",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3407694-1000-1000/PEPINO..jpg?v=636907068548630000"
+    },
+    {
+      "Nombre": "Limón",
+      "Precio": "500",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://encolombia.com/wp-content/uploads/2019/06/Limon.jpg"
+    },
+    {
+      "Nombre": "Guatila",
+      "Precio": "900",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://www.elcampesino.co/wp-content/uploads/2020/02/AgenciaDeNoticias-20200205-01_02.jpg"
+    },
+    {
+      "Nombre": "Platano",
+      "Precio": "1000",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://mercaldas.vteximg.com.br/arquivos/ids/184929-400-400/Platano-Verde-x05-kg.jpg?v=637024280814500000"
+    },
+    {
+      "Nombre": "Bananos",
+      "Precio": "1500",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.quimicaysociedad.org/wp-content/uploads/2015/06/platano-590x295.jpg"
+    },
+    {
+      "Nombre": "Durazno",
+      "Precio": "2000",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.elnacional.com/wp-content/uploads/2018/01/durazno-tiene-multiples-propiedades-medicinales_221238.jpg"
+    },
+    {
+      "Nombre": "Mango",
+      "Precio": "1500",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mango_and_cross_section_edit.jpg"
+    },
+    {
+      "Nombre": "Mora",
+      "Precio": "2500",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.evok.com.co/wp-content/uploads/2016/08/evok-mora-destacada.jpg"
+    },
+    {
+      "Nombre": "Pera",
+      "Precio": "1800",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://media.mercola.com/assets/images/foodfacts/pear-nutrition-facts.jpg"
+    },
+    {
+      "Nombre": "Naranja",
+      "Precio": "5000",
+      "UnidadMedida": "Docena",
+      "Foto": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3483642-750-750/2.naranja.jpg?v=637171155307870000"
+    },
+    {
+      "Nombre": "Yuca",
+      "Precio": "1300",
+      "UnidadMedida": "Libra",
+      "Foto": "https://media.mercola.com/ImageServer/Public/2018/December/Nonlead/beneficios-de-la-yuca.jpg"
+    },
+    {
+      "Nombre": "Fresas",
+      "Precio": "2100",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.solucionesparaladiabetes.com/magazine-diabetes/wp-content/uploads/fresas.jpg"
+    },
+    {
+      "Nombre": "Ajo",
+      "Precio": "500",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2018/10/03/15385788043643.jpg"
+    },
+    {
+      "Nombre": "Papaya",
+      "Precio": "2500",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://www.eluniversal.com.mx/sites/default/files/2019/04/03/papaya_0.jpg"
+    },
+    {
+      "Nombre": "Uva",
+      "Precio": "3000",
+      "UnidadMedida": "Libra",
+      "Foto": "https://metrocolombiafood.vteximg.com.br/arquivos/ids/237782-1000-1000/3865-1.jpg?v=636976339858800000"
+    },
+    {
+      "Nombre": "Manzana",
+      "Precio": "1200",
+      "UnidadMedida": "Unidad",
+      "Foto": "https://1.bp.blogspot.com/-0V5xiGGwhBc/VK0My5TjBTI/AAAAAAAADxY/cQjkOOq9uqM/s1600/manzana-roja.png"
+    },
+    {
+      "Nombre": "Aguacate",
+      "Precio": "2000",
+      "UnidadMedida": "Libra",
+      "Foto": "https://www.eluniversal.com.mx/sites/default/files/2016/08/26/aguacate_nutritip.jpg"
+    },
+    {
+      "Nombre": "Frijol",
+      "Precio": "1800",
+      "UnidadMedida": "Libra",
+      "Foto": "https://imgcdn.larepublica.co/i/480/2018/11/19093547/frijol.png"
+    }
+  ]
 }
