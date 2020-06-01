@@ -1,4 +1,5 @@
-{[
+{
+  "Productos":[
   {
     "nombre":"cebolla",
     "precio":500
@@ -7,4 +8,5 @@
     "nombre":"tomate",
     "precio":800
   }
-]}
+    ]
+}
